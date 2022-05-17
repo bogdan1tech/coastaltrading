@@ -1,5 +1,5 @@
 # coastaltrading
-Coastal trading and pawn
+Coastal trading and pawn site
 
 Сайт был востановленн из архива сайт. Было сделано:⠀
 1.Установлен viewport на всеx страницax.
