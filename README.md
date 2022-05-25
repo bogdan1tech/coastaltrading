@@ -1,5 +1,5 @@
 # coastaltrading
-Coastal trading and pawn site
+Coastal trading and pawn site; задеплоеная версия: https://bogdan1tech.github.io/coastaltrading/
 
 Сайт был востановленн из архива сайт. Было сделано:⠀
 1.Установлен viewport на всеx страницax.
